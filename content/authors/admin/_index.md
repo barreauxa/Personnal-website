@@ -33,10 +33,10 @@ education:
   - course: PhD in Biology
     institution: Université de Neuchâtel, Switzerland
     year: 2016
-  - course: MSc and Engineer diploma in Biology and Agricultural pest control
+  - course: MSc and Engineer diploma in Biology
     institution: Montpellier Sup Agro (International University Institute of Advanced Agricultural Science, biotechnologies, and Management), France
     year: 2012
-  - course: BSc in in Biology and Agricultural pest control
+  - course: BSc in in Biology
     institution:  Montpellier Sup Agro (International University Institute of Advanced Agricultural Science, biotechnologies, and Management), France
     year: 2010
 
