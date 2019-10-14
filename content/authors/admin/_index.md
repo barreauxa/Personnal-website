@@ -22,7 +22,7 @@ bio: I am a vector biologist and an evolutionary ecologist interested in host pa
 interests:
 - Vector biology
 - Vector control
-- Host-parasites interactions
+- Host parasites interactions
 - Ecology and Evolution
 - Evolutionary and Epidemiological modelling
 - Mosquitoes and tsetse flies
