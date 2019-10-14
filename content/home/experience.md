@@ -18,27 +18,38 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research associate"
+  company = "University of Bristol"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Bristol, United-Kingdom"
+  date_start = "2019-03-01"
   date_end = ""
-  description = """
+  description = """BBRSC grant: epidemiological consequences of reproductive senescence in a long-lived vector. Vector biology, ecology and evolution of maternal investment in tsetse flies & host parasites interactions. Epidemiology, epidemiological modeling of Human and African Animal Trypanosomiasis integrating vector biology
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Evolutionary modelling
+  * Epidemiological modelling
+  * Mentoring MSc students
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Associate"
+  company = "The Pennsylvania State University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "State College, Pennsylvania, USA"
+  date_start = "2016-05-01"
+  date_end = "2019-02-28"
+  description = """Bill and Melinda Gates foundation: “Eave Tubes” for malaria control (10 millions dollars), Vector biology linked with the vector control tool (lab, semi-field and field settings, Randomised Control Trial), Improve vector control tool and alternatives to pyrethroids, Age structure and insecticide resistance of mosquito populations, Importance of human behaviour
+	- Field work in West Africa, in Ivory Coast: 22 months
+	- Vector biology, Vector control, Ecology & Evolution, Behaviour, Biodemography, Modelling (R), Immunology, Insecticide resistance, Biological control (entomopathogenic fungi), Microbiology, EPA reports (Environmental Protection Agency) for biological control products, Collaborations (LSHTM and National Institute of Public health Ivory Coast)
+  
+ Responsibilities include:
+  
+  * Vector biology, Vector control, Ecology & Evolution, Behaviour, 
+  * Biodemography, Modelling (R), Immunology, Insecticide resistance, Biological control (entomopathogenic fungi), Microbiology, 
+  * EPA reports (Environmental Protection Agency) for biological control products, Collaborations (LSHTM and National Institute of Public health Ivory Coast)
+	* Project and team management: 3 PhD students, 10 research technicians, 25 volunteers 
+
+"""
 
 +++
