@@ -70,7 +70,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Researchers
-- Visitors
 ---
 I am a research associate at the University of Bristol, in the School of Biological Sciences. My research focuses on vector biology and host-parasite interactions to improve disease control programs: from vector control to epidemiological modelling and decision making. 
 
