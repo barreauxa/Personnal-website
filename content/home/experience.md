@@ -44,12 +44,11 @@ date_format = "Jan 2006"
  Responsibilities include:
   
   * Field work in West Africa, in Ivory Coast: 22 months
-  * Vector biology, behaviour and control; insecticide resistance; Human Behaviour 
+  * Vector biology, behaviour and control, insecticide resistance, Human Behaviour 
   * Biodemography, Modelling, 
-  * Immunology, Microbiology, Biological control (entomopathogenic fungi), Microbiology, 
-	* Project and team management: 3 PhD students, 10 research technicians, 25 volunteers
-  * EPA reports (Environmental Protection Agency) for biological control products
-  * Collaborations (LSHTM and National Institute of Public health Ivory Coast)
+  * Immunology, Microbiology, Biological control (entomopathogenic fungi), Microbiology 
+  * Project and team management: 3 PhD students, 10 research technicians, 25 volunteers
+  * Collaborations: LSHTM and National Institute of Public health Ivory Coast
 
 """
 
