@@ -39,16 +39,17 @@ date_format = "Jan 2006"
   location = "State College, Pennsylvania, USA"
   date_start = "2016-05-01"
   date_end = "2019-02-28"
-  description = """Bill and Melinda Gates foundation: “Eave Tubes” for malaria control (10 millions dollars), Vector biology linked with the vector control tool (lab, semi-field and field settings, Randomised Control Trial), Improve vector control tool and alternatives to pyrethroids, Age structure and insecticide resistance of mosquito populations, Importance of human behaviour
-	- Field work in West Africa, in Ivory Coast: 22 months
-	- Vector biology, Vector control, Ecology & Evolution, Behaviour, Biodemography, Modelling (R), Immunology, Insecticide resistance, Biological control (entomopathogenic fungi), Microbiology, EPA reports (Environmental Protection Agency) for biological control products, Collaborations (LSHTM and National Institute of Public health Ivory Coast)
+  description = """Combining housing improvement and ecology as part of the trial of a new vector control tool for malaria, Eavetubes, funded by the Bill and Melinda Gates foundation (10 millions dollars). Vector biology linked with to vector control tool (lab, semi-field and field settings, Randomised Control Trial) from mmosquito behaviour and life history to  human behaviour
   
  Responsibilities include:
   
-  * Vector biology, Vector control, Ecology & Evolution, Behaviour, 
-  * Biodemography, Modelling (R), Immunology, Insecticide resistance, Biological control (entomopathogenic fungi), Microbiology, 
-  * EPA reports (Environmental Protection Agency) for biological control products, Collaborations (LSHTM and National Institute of Public health Ivory Coast)
-	* Project and team management: 3 PhD students, 10 research technicians, 25 volunteers 
+  * Field work in West Africa, in Ivory Coast: 22 months
+  * Vector biology, behaviour and control; insecticide resistance; Human Behaviour 
+  * Biodemography, Modelling, 
+  * Immunology, Microbiology, Biological control (entomopathogenic fungi), Microbiology, 
+	* Project and team management: 3 PhD students, 10 research technicians, 25 volunteers
+  * EPA reports (Environmental Protection Agency) for biological control products
+  * Collaborations (LSHTM and National Institute of Public health Ivory Coast)
 
 """
 
