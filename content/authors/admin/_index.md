@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Antoine Barreaux
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research associate in vector ecology and evolution
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Bristol
+  url: "https://research-information.bristol.ac.uk/en/persons/antoine-m-g-barreaux(cc59626c-1654-4921-9056-ed69a8c1fd84).html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: I am a vector biologist and an evolutionary ecologist interested in host parasites interactions, vector control and carry over effects with a focus on Malaria and Human and Animal African Trypanosomiasis.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Vector biology and host-parasites interactions
+- Vector-borne diseases
+- Vector control
+- Evolutionary modelling and life history theory
+- Epidemiological modelling
+- Mosquitoes and tsetse flies
+- Malaria, Human and Animal African Trypanosomiasis
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Biology
+    institution: Université de Neuchâtel, Switzerland
+    year: 2016
+  - course: MSc and Engineer diploma in Biology and Agricultural pest control
+    institution: Montpellier Sup Agro (International University Institute of Advanced Agricultural Science, biotechnologies, and Management), France
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in in Biology and Agricultural pest control
+    institution:  Montpellier Sup Agro (International University Institute of Advanced Agricultural Science, biotechnologies, and Management), France
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,13 +50,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/AMGBarreaux
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?hl=fr&user=bMdX_vcAAAAJ
+#- icon: github
+#  icon_pack: fab
+ # link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a research associate at the University of Bristol, in the School of Biological Sciences. My research focuses on vector biology and host-parasite interactions to improve disease control programs, from vector control to epidemiological modelling and decision making. I work on better understanding vector biology through evolutionary models with a focus on early life effects and vector competence and I am currently developing a model of maternal investment in the vector of Humand and Animal African Trypanosomiasis, the tsetse fly. I am also integrating more vector biology in epidemiological models of animal and human African trypanosomiasis. All that work is part of a BBSRC funded project focusing on epidemiological consequences of reproductive senescence in the tsetse fly, involving laboratory experiments conducted at LSTM, field work in Zimbabwe, and modeling work conducted between the Universities of Bristol, Oxford and Warwick.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I have a BSc, MSc and Engineer diploma in agricultural pest control from the university of Montpellier Sup Agro, France. I have a PhD in ecology and evolution of malaria mosquito immunity and vector competence from the University of Neuchâtel, Switzerland (2012-16). I carried on working on host-parasite interactions during his postdoc at Penn State University, USA (2016-19) and spent over two and a half years in Ivory Coast, West Africa. I was combining housing improvement and ecology as part of the trial of a new vector control tool for malaria, Eavetubes, funded by the Bill and Melinda Gates foundation
