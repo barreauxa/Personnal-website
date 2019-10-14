@@ -19,9 +19,9 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a vector biologist and an evolutionary ecologist interested in host parasites interactions, vector control and carry over effects with a focus on Malaria and Human and Animal African Trypanosomiasis.
+
 interests:
-- Vector biology
-- Vector control
+- Vector biology and control
 - Host parasites interactions
 - Ecology and Evolution
 - Evolutionary and Epidemiological modelling
