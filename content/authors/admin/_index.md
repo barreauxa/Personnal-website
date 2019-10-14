@@ -24,8 +24,8 @@ _ Vector biology
 - Vector control
 _ Host-parasites interactions
 - Ecology and Evolution
-- Evolutionary & Epidemiological modelling
-- Mosquitoes & tsetse flies
+- Evolutionary and Epidemiological modelling
+- Mosquitoes and tsetse flies
 - Malaria, Human and Animal African Trypanosomiasis
 
 education:
