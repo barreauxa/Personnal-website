@@ -27,15 +27,15 @@ subtitle = ""
   
    [[content.filter_button]]
      name = "Vector biology and carry-over effects"
-  tag = "Deep Learning"
+  tag = "Vector biology and carry-over effects"
   
   [[content.filter_button]]
   name = "Evolutionary modelling"
-  tag = *
+  tag = "Evolutionary modelling"
 
   [[content.filter_button]]
   name = "Epidemiological modelling"
-  tag = *
+  tag = "Epidemiological modelling"
   
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -46,7 +46,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
